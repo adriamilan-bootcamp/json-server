@@ -1,0 +1,28 @@
+{
+  "name": "faker-api",
+  "version": "1.0.0",
+  "description": "Fake Api for Rick & Morty Crud Application",
+  "main": "server.js",
+  "scripts": {
+      "start": "node server.js"
+   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adriamilan-bootcamp/UD41-Angular-CRUD.git"
+  },
+  "keywords": [
+    "Faker",
+    "API",
+    "Rick&Morty",
+    "Crud"
+  ],
+  "author": "Adrià Milan Moreno",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adriamilan-bootcamp/UD41-Angular-CRUD/issues"
+  },
+  "homepage": "https://github.com/adriamilan-bootcamp/UD41-Angular-CRUD#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
